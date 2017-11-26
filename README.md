@@ -14,7 +14,7 @@ Time spent: **3** hours spent in total
   - Ubuntu - Snort
 	- Over 20 IPs.
     - CINS Found some Active Thereat Inteillegence Poor Reputation IPs
-	- SCAN Sipviious User-Agent Detected (friendly-scanner)
+	- SCAN Sipvicious User-Agent Detected (friendly-scanner)
 	- DROP Dshield block listed source group
 	- VOIP Modified Sipvicious Asterisk PBX User-Agent
 	- POLCY suspicious inbound to MSSQL port 1433
